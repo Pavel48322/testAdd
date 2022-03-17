@@ -1,0 +1,4172 @@
+{
+	"textures": [
+		{
+			"image": "confetti-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 667,
+				"h": 472
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (0).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 174
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 53,
+						"h": 174
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "confetti (1).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 218
+					},
+					"frame": {
+						"x": 56,
+						"y": 1,
+						"w": 76,
+						"h": 218
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "confetti (2).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 286
+					},
+					"frame": {
+						"x": 134,
+						"y": 1,
+						"w": 98,
+						"h": 286
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "confetti (3).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 431
+					},
+					"frame": {
+						"x": 234,
+						"y": 1,
+						"w": 120,
+						"h": 431
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "confetti (4).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 446
+					},
+					"frame": {
+						"x": 356,
+						"y": 1,
+						"w": 143,
+						"h": 446
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "confetti (5).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 470
+					},
+					"frame": {
+						"x": 501,
+						"y": 1,
+						"w": 165,
+						"h": 470
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 633,
+				"h": 692
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (6).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 560
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 187,
+						"h": 560
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "confetti (7).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 209,
+						"h": 676
+					},
+					"frame": {
+						"x": 190,
+						"y": 1,
+						"w": 209,
+						"h": 676
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "confetti (8).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 690
+					},
+					"frame": {
+						"x": 401,
+						"y": 1,
+						"w": 231,
+						"h": 690
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 532,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (9).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 253,
+						"h": 748
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 253,
+						"h": 748
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "confetti (10).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 854
+					},
+					"frame": {
+						"x": 256,
+						"y": 1,
+						"w": 275,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 622,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (11).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 298,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "confetti (12).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 854
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 320,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 710,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (13).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 342,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 342,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "confetti (14).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 364,
+						"h": 854
+					},
+					"frame": {
+						"x": 345,
+						"y": 1,
+						"w": 364,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 800,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (15).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 387,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 387,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "confetti (16).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 409,
+						"h": 854
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 409,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 433,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (17).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 431,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 431,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 455,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (18).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 453,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 478,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (19).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 476,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 476,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (20).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (21).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (22).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (23).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (24).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (25).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (26).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (27).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-17.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (28).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (29).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-19.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (30).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-20.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (31).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-21.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (32).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-22.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (33).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-23.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (34).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-24.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (35).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-25.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (36).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-26.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (37).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-27.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (38).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-28.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (39).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-29.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (40).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-30.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (41).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-31.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (42).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-32.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (43).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-33.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (44).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-34.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (45).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-35.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (46).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-36.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (47).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-37.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (48).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-38.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (49).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-39.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (50).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-40.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (51).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-41.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (52).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-42.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (53).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-43.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (54).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-44.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (55).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-45.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (56).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-46.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (57).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-47.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (58).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-48.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (59).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-49.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (60).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-50.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (61).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-51.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (62).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-52.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (63).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-53.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (64).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-54.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (65).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-55.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (66).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-56.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (67).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-57.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (68).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-58.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (69).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-59.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (70).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-60.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (71).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-61.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (72).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-62.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (73).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-63.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (74).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-64.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (75).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-65.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (76).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-66.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (77).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-67.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (78).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-68.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (79).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-69.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (80).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-70.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (81).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-71.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (82).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-72.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (83).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-73.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (84).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-74.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (85).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-75.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (86).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-76.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (87).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-77.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (88).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-78.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (89).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-79.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (90).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-80.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (91).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-81.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (92).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-82.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (93).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-83.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (94).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-84.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (95).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-85.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (96).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-86.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (97).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-87.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (98).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-88.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (99).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-89.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (100).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-90.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (101).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-91.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (102).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-92.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (103).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-93.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (104).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-94.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (105).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-95.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (106).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-96.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (107).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-97.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (108).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-98.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (109).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-99.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (110).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-100.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (111).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-101.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (112).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-102.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (113).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-103.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (114).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-104.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (115).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-105.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (116).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-106.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (117).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "confetti-107.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 484,
+				"h": 856
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "confetti (118).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 854
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 482,
+						"h": 854
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6e3de2f1f6168f35b83c39ac86fcd43a:0202368f11a6c17baee427c0c13c29d8:e78e524c5c99e6f9f4e05674d2166152$"
+	}
+}

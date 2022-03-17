@@ -1,0 +1,200 @@
+{
+	"textures": [
+		{
+			"image": "test-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 5378,
+				"h": 6052
+			},
+			"scale": 0.7,
+			"frames": [
+				{
+					"filename": "167014-svet-belye-sinij-zelenyj-elektronnyj_instrument-7680x4320.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 5376,
+						"h": 3024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5376,
+						"h": 3024
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 5376,
+						"h": 3024
+					}
+				},
+				{
+					"filename": "167014-svet-belye-sinij-zelenyj-elektronnyj_instrument-7680x4320 — копия 2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 5376,
+						"h": 3024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5376,
+						"h": 3024
+					},
+					"frame": {
+						"x": 1,
+						"y": 3027,
+						"w": 5376,
+						"h": 3024
+					}
+				}
+			]
+		},
+		{
+			"image": "test-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 5378,
+				"h": 6052
+			},
+			"scale": 0.7,
+			"frames": [
+				{
+					"filename": "167014-svet-belye-sinij-zelenyj-elektronnyj_instrument-7680x4320 — копия 3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 5376,
+						"h": 3024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5376,
+						"h": 3024
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 5376,
+						"h": 3024
+					}
+				},
+				{
+					"filename": "167014-svet-belye-sinij-zelenyj-elektronnyj_instrument-7680x4320 — копия 4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 5376,
+						"h": 3024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5376,
+						"h": 3024
+					},
+					"frame": {
+						"x": 1,
+						"y": 3027,
+						"w": 5376,
+						"h": 3024
+					}
+				}
+			]
+		},
+		{
+			"image": "test-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 5378,
+				"h": 6052
+			},
+			"scale": 0.7,
+			"frames": [
+				{
+					"filename": "167014-svet-belye-sinij-zelenyj-elektronnyj_instrument-7680x4320 — копия 5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 5376,
+						"h": 3024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5376,
+						"h": 3024
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 5376,
+						"h": 3024
+					}
+				},
+				{
+					"filename": "167014-svet-belye-sinij-zelenyj-elektronnyj_instrument-7680x4320 — копия 6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 5376,
+						"h": 3024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5376,
+						"h": 3024
+					},
+					"frame": {
+						"x": 1,
+						"y": 3027,
+						"w": 5376,
+						"h": 3024
+					}
+				}
+			]
+		},
+		{
+			"image": "test-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 5378,
+				"h": 3026
+			},
+			"scale": 0.7,
+			"frames": [
+				{
+					"filename": "167014-svet-belye-sinij-zelenyj-elektronnyj_instrument-7680x4320 — копия.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 5376,
+						"h": 3024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5376,
+						"h": 3024
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 5376,
+						"h": 3024
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:768c9170db1c8e6621d6c0e56f7b7737:f7d4e2fa609006c0b6311f7a29f78602:3c57caa9c3ddb28494cc8c57fa0349ca$"
+	}
+}
